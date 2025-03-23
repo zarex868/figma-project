@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color:#C4F5F6;
+}
+
+header {
+    background-color: #00F6FF;
+    padding: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #FF0000;
+    padding: 10px;
+    color: black;
+}
+
+.special_link {
+    background-color: #62FF00;
+    padding: 10px;
+    color: white;
+}
+
+font {
+    background-color: #FF0000;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: #d9d9d9;
+    padding: 10px;
+    color: color;
+}
+
+footer {
+    background-color: #FFE100;
+    padding: 15px;
+}
